@@ -1,3 +1,9 @@
+:root {
+  --primary-color: rgb(49, 49, 49);
+  --secondary-color:#fff;
+  --accent-color:rgb(225, 135, 10);
+  --font-size:16px;
+}
 .App {
   text-align: center;
 }
